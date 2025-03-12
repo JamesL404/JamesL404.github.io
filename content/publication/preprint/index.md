@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "ChainRank-DPO: Chain Rank Direct Preference Optimization for LLM Rankers"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Haowei Liu
+date: "2025-03-17"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,35 +14,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "ChainRank-DPO: Chain Rank Direct Preference Optimization for LLM Rankers"
+publication_short: "ChainRank-DPO"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In information retrieval, large language models (LLMs) have shown significant promise in text reranking tasks by leveraging their advanced reasoning capabilities. However, traditional supervised fine-tuning approaches can compromise these models' general-purpose abilities, particularly their reasoning skills. This paper presents a novel methodology that combines Chain-of-Thought prompting with a training pipeline of Supervised Fine-Tuning followed by Direct Preference Optimization (SFT-DPO). This approach aims to enhance ranking performance while preserving the inherent reasoning strengths of LLMs. Experimental evaluations on the TREC Deep Learning datasets demonstrate that our method surpasses existing models like RankZephyr. Furthermore, it maintains robust performance on the Massive Multitask Language Understanding (MMLU) benchmark, indicating effective retention of general-purpose capabilities through strategic fine-tuning. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags:
 - Large Language Models
-
+- Information Retrieval
+- Text Reranking
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
+url_pdf: https://arxiv.org/pdf/2412.14405
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
@@ -52,20 +44,13 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

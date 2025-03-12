@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large Languege Models | Haowei Liu</title>
+    <link>http://localhost:1313/tags/large-languege-models/</link>
+      <atom:link href="http://localhost:1313/tags/large-languege-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Large Languege Models</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Large Languege Models</title>
+      <link>http://localhost:1313/tags/large-languege-models/</link>
+    </image>
+    
+    <item>
+      <title>NPC Decision Making</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

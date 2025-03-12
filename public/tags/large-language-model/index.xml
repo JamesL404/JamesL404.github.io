@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large Language Model | Haowei Liu</title>
+    <link>http://localhost:1313/tags/large-language-model/</link>
+      <atom:link href="http://localhost:1313/tags/large-language-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Large Language Model</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Large Language Model</title>
+      <link>http://localhost:1313/tags/large-language-model/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge Editing</title>
+      <link>http://localhost:1313/project/knowledge_edting/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/knowledge_edting/</guid>
+      <description>&lt;p&gt;Focuses on efficiently modifying LLMs to update or correct specific facts while preserving overall model performance. By leveraging targeted fine-tuning, memory-efficient methods, or intervention-based techniques, the project aims to enable real-time updates without requiring full retraining.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
