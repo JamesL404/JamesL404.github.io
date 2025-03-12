@@ -32,7 +32,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research scientist at the Santa Clara University. I am interested in various topics about IR, NLP, and AI.
+        I'm a research assistant at the Santa Clara University. I am interested in various topics about IR, NLP, and AI.
         
         Please reach out to collaborate 😃
     design:
