@@ -2,6 +2,10 @@
 title: "ChainRank-DPO: Chain Rank Direct Preference Optimization for LLM Rankers"
 authors:
 - Haowei Liu
+- Xuyang Wu
+- Guohao Sun
+- Zhiqiang Tao
+- Yi Fang
 date: "2025-03-17"
 doi: ""
 
